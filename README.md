@@ -9,4 +9,4 @@ gasps github repository
 
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-4/950217321253859350.png" height="1000px"/></a></p>
     
-    credits to github.com/soarcheats for the idea
+    credits to github.com/soarcheats & github.com/rattleshyper for the bio ideas.
