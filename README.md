@@ -11,5 +11,6 @@ gasps github repository
     
     credits to github.com/soarcheats & github.com/rattleshyper for the bio ideas.
   
-  
+  <a href = "https://discord.gg/m6b8Pw4NR8"><img src="https://github.com/RattlesHyper/RattlesHyper/assets/60119170/28102eeb-cc51-4913-9e9d-67fa556f0791"/></a>
+
   CONNECT WITH ME
