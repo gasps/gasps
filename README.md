@@ -13,5 +13,3 @@ gasps github repository
   
   
   CONNECT WITH ME
-![discord](https://github.com/gasps/gasps/assets/60119170/17e001eb-a5d7-45d9-a03e-da8487484620)
-![youtube](https://github.com/gasps/gasps/assets/60119170/a0e8c0ce-0196-4b54-ab5a-314d747e74dc)
