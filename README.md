@@ -11,9 +11,9 @@
 #
 # Information
 
-- 🌙 I’m currently learning Object Orientation and Reverse Engineering aswell as Databases!
+- 🌙 just learning as i go tbh, trying to get into college working a 9-5 atm
 
-- 🧭 How to reach me **devgasps**
+- 🧭 How to reach me **mollyinduced**
 
 <p align="center">
     <a href="https://discord.com/users/1146083757800050820" target="_blank" rel="nofollow">
