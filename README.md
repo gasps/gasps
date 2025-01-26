@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=24&duration=1000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=850&lines=gasps.top;gasps.xyz;gasps.win;gasps.lol;object+oriented;junior+developer;3+years+of+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Quicksand&size=24&duration=1000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=850&lines=molly.rip;object+oriented;junior+developer;5+years+of+experience)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gasps&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
